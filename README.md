@@ -23,6 +23,7 @@ Sou dedicado, organizado e tenho facilidade para aprender novas tecnologias.
 
 
 Projetos
+
 🔹 Exercícios e mini projetos voltados ao aprendizado  
 🔹 Repositórios utilizados para praticar lógica e estruturação de código  
 
