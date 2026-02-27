@@ -39,7 +39,12 @@ Busco uma oportunidade de **estágio ou primeiro emprego em tecnologia**, onde e
 ##  Conecte-se comigo
 🔗 LinkedIn: https://linkedin.com/in/enzo-biagiotti
 
-Objetivo
-Conseguir uma oportunidade de **estágio ou primeiro emprego**, onde eu possa aprender na prática, evoluir profissionalmente e contribuir com a equipe.
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzobiagiotti&show_icons=true&theme=github_dark)
+
+## 💻 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
