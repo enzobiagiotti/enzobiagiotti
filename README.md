@@ -41,8 +41,8 @@ Busco uma oportunidade de **estágio ou primeiro emprego em tecnologia**, onde e
 
 
 
-## GitHub Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzobiagiotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+##  GitHub Stats
+![Enzo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=enzobiagiotti&show_icons=true&theme=github_dark)
 
 ## Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
