@@ -1,35 +1,44 @@
-#  Olá, eu sou o Enzo Biagiotti
+# Olá, eu sou o Enzo Biagiotti
 
-Estudante universitário  
-Iniciando na área de tecnologia  
-Em busca de estágio ou primeiro emprego  
+🎓 Software Engineering Student  
+💻 Python Developer em formação  
+🚀 Focado em aprendizado prático e desenvolvimento backend  
 
+---
 
+##  Sobre mim
+Tenho 18 anos e estou iniciando minha graduação em Engenharia de Software.
 
-Sobre mim
-Tenho 18 anos e estou iniciando minha graduação na área de tecnologia.  
-Atualmente estudo conceitos fundamentais de programação e lógica, com foco em aprendizado contínuo e desenvolvimento prático por meio de projetos e exercícios.
+Atualmente estudo fundamentos de programação, lógica e desenvolvimento de software, buscando evoluir continuamente através da prática, projetos e resolução de problemas reais.
 
-Sou dedicado, organizado e tenho facilidade para aprender novas tecnologias.
+Sou dedicado, organizado e motivado a aprender novas tecnologias e boas práticas de desenvolvimento.
 
+---
 
-
- Conhecimentos
-- Lógica de programação
+##  Conhecimentos
+- Lógica de Programação
+- Python (iniciante)
 - Git & GitHub
-- Informática básica
-- Conceitos iniciais de desenvolvimento de software
+- Conceitos de Desenvolvimento de Software
+- Estruturação de código
 
+---
 
+## Projetos
+🔹 Exercícios e mini projetos voltados ao aprendizado de programação  
+🔹 Repositórios utilizados para prática de lógica e organização de código  
 
-Projetos
+Meus projetos refletem minha evolução contínua como desenvolvedor.
 
-🔹 Exercícios e mini projetos voltados ao aprendizado  
-🔹 Repositórios utilizados para praticar lógica e estruturação de código  
+---
 
-Meus projetos refletem minha evolução como estudante.
+##  Objetivo
+Busco uma oportunidade de **estágio ou primeiro emprego em tecnologia**, onde eu possa aprender na prática, desenvolver minhas habilidades e contribuir com a equipe.
 
+---
 
+##  Conecte-se comigo
+🔗 LinkedIn: https://linkedin.com/in/enzo-biagiotti
 
 Objetivo
 Conseguir uma oportunidade de **estágio ou primeiro emprego**, onde eu possa aprender na prática, evoluir profissionalmente e contribuir com a equipe.
