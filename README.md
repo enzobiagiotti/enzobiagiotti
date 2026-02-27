@@ -28,7 +28,6 @@ Sou dedicado, organizado e motivado a aprender novas tecnologias e boas prática
 🔹 Exercícios e mini projetos voltados ao aprendizado de programação  
 🔹 Repositórios utilizados para prática de lógica e organização de código  
 
-Meus projetos refletem minha evolução contínua como desenvolvedor.
 
 ---
 
