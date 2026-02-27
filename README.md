@@ -44,6 +44,3 @@ Objetivo
 Conseguir uma oportunidade de **estágio ou primeiro emprego**, onde eu possa aprender na prática, evoluir profissionalmente e contribuir com a equipe.
 
 
-
-Conecte-se comigo
-- LinkedIn: https://linkedin.com/in/enzo-biagiotti
