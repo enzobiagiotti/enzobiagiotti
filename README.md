@@ -40,10 +40,11 @@ Busco uma oportunidade de **estágio ou primeiro emprego em tecnologia**, onde e
  LinkedIn: https://linkedin.com/in/enzo-biagiotti
 
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enzobiagiotti&show_icons=true&theme=github_dark)
 
-##  Tecnologias
+## GitHub Stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzobiagiotti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+## Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
