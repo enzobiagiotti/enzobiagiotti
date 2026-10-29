@@ -19,7 +19,7 @@
 ## Sobre mim
 
 Tenho 19 anos e estou cursando **Engenharia de Software na FIAP** (2026 – 2029).
-Já publiquei projetos web do design ao deploy e liderei uma equipe de 4 até a **semifinal** de um desafio FIAP + Vivo.
+Gosto de tirar projetos do papel: do protótipo no Figma até o site publicado.
 
 Hoje estou aprofundando em **React, Next.js, TypeScript e Node.js** para atuar como fullstack.
 
@@ -64,8 +64,8 @@ Hoje estou aprofundando em **React, Next.js, TypeScript e Node.js** para atuar c
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| [TerraShield](https://github.com/enzobiagiotti/terrashield-frontend) · [🔗 site](https://terrashield-frontend.vercel.app) | Design e front-end de um sistema de monitoramento de desastres naturais com dados da NASA e do INPE, em equipe de 4 | Figma, HTML, CSS, JavaScript, Vercel |
-| [JOVI — Modo IA](https://github.com/enzobiagiotti/jovi-modo-ia) | Liderei a equipe de 4 numa landing page de câmera inteligente em parceria com a Vivo — **semifinal** | HTML, CSS, Vercel |
+| [TerraShield](https://github.com/enzobiagiotti/terrashield-frontend) · [🔗 site](https://terrashield-frontend.vercel.app) | Sistema de monitoramento de desastres naturais com dados da NASA e do INPE | Figma, HTML, CSS, JavaScript, Vercel |
+| [JOVI — Modo IA](https://github.com/enzobiagiotti/jovi-modo-ia) | Landing page de câmera inteligente para um desafio FIAP + Vivo — projeto semifinalista | HTML, CSS, Vercel |
 | [Catálogo de Jogos](https://github.com/enzobiagiotti/catalogo-de-jogos) | App que consome API REST, com rota dinâmica e tratamento de erro | Next.js, React |
 | [Dashboard de Clima](https://github.com/enzobiagiotti/dashboard-clima) | Front-end e gráficos integrados à API da OpenWeatherMap | JavaScript, Chart.js |
 
