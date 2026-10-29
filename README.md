@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Tenho 18 anos e estou cursando **Engenharia de Software na FIAP**.
+Tenho 19 anos e estou cursando **Engenharia de Software na FIAP**.
 Estudo fundamentos de programação, lógica e desenvolvimento de software — sempre buscando evoluir através da prática e de projetos reais.
 
 Sou dedicado, organizado e motivado a aprender novas tecnologias e boas práticas de desenvolvimento.
