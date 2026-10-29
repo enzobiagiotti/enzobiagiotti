@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineering Student · FIAP · São Paulo, BR</b><br/>
-  Fullstack dev em formação — do backend ao frontend, do banco de dados à API.
+  Fullstack dev em formação — do design no Figma ao deploy.
 </p>
 
 <p align="center">
@@ -18,33 +18,45 @@
 
 ## Sobre mim
 
-Tenho 19 anos e estou cursando **Engenharia de Software na FIAP**.
-Estudo fundamentos de programação, lógica e desenvolvimento de software — sempre buscando evoluir através da prática e de projetos reais.
+Tenho 19 anos e estou cursando **Engenharia de Software na FIAP** (2026 – 2029).
+Já publiquei projetos web do design ao deploy e liderei uma equipe de 4 até a **semifinal** de um desafio FIAP + Vivo.
 
-Sou dedicado, organizado e motivado a aprender novas tecnologias e boas práticas de desenvolvimento.
+Hoje estou aprofundando em **React, Next.js, TypeScript e Node.js** para atuar como fullstack.
 
-🎯 Buscando oportunidade de **estágio ou primeiro emprego em tecnologia**.
+🎯 Buscando **estágio em desenvolvimento fullstack**.
 
 ---
 
 ## Tecnologias & Ferramentas
 
-**Frontend**
+**Linguagens**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend**
+**Front-end e APIs**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0E7C86?style=for-the-badge&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Em aprendizado**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -52,9 +64,10 @@ Sou dedicado, organizado e motivado a aprender novas tecnologias e boas prática
 
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
-| [Painel Magic + Notas](https://github.com/enzobiagiotti/teste-API) | Painel de anotações com localStorage + busca de cartas via API pública | JS, Fetch API, DOM |
-| [JOVI — Modo IA](https://github.com/enzobiagiotti/Sprint2-front-end-1ESPV) | Landing page para câmera inteligente — projeto acadêmico FIAP/Vivo com deploy no Vercel | HTML, CSS, Vercel |
-| [Organizador de Arquivos](https://github.com/enzobiagiotti/organizador-arquivos-python) | Script Python que organiza arquivos automaticamente por tipo | Python |
+| [TerraShield](https://github.com/enzobiagiotti/terrashield-frontend) · [🔗 site](https://terrashield-frontend.vercel.app) | Design e front-end de um sistema de monitoramento de desastres naturais com dados da NASA e do INPE, em equipe de 4 | Figma, HTML, CSS, JavaScript, Vercel |
+| [JOVI — Modo IA](https://github.com/enzobiagiotti/jovi-modo-ia) | Liderei a equipe de 4 numa landing page de câmera inteligente em parceria com a Vivo — **semifinal** | HTML, CSS, Vercel |
+| [Catálogo de Jogos](https://github.com/enzobiagiotti/catalogo-de-jogos) | App que consome API REST, com rota dinâmica e tratamento de erro | Next.js, React |
+| [Dashboard de Clima](https://github.com/enzobiagiotti/dashboard-clima) | Front-end e gráficos integrados à API da OpenWeatherMap | JavaScript, Chart.js |
 
 ---
 
